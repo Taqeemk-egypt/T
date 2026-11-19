@@ -1,0 +1,91 @@
+═══════════════════════════════════════════════════════════════
+  TAQEEMK v14 - MISSING ICON FILES REPORT
+═══════════════════════════════════════════════════════════════
+
+📊 ICONS FOLDER STATUS: e:\teq\icons\
+
+✅ FOUND (1 file):
+   • facebook.png (64 bytes - قد يكون ملف تجريبي صغير)
+
+❌ MISSING (8 files):
+   1. instagram.png   ← مطلوب
+   2. whatsapp.png    ← مطلوب
+   3. snapchat.png    ← مطلوب
+   4. linkedin.png    ← مطلوب
+   5. gmail.png       ← مطلوب
+   6. tiktok.png      ← مطلوب
+   7. map.png         ← مطلوب
+   8. review.png      ← مطلوب
+
+═══════════════════════════════════════════════════════════════
+
+🔧 FIXES APPLIED IN v14:
+
+1. ✅ Added onerror handler to all icon <img> tags
+   - يخفي الصورة المكسورة تلقائياً
+   - يعرض أول حرف من اسم المنصة كـ fallback
+
+2. ✅ Updated Icons.renderBadge() in app.js
+   - إضافة fallback span مع أول حرف
+   - position: relative للمربع الخارجي
+   - onerror inline handler
+
+3. ✅ Updated renderSocialIconsHtml() in dashboard.html
+   - إضافة label لكل منصة (عربي)
+   - fallback span مع firstLetter
+   - dynamic onerror injection
+
+4. ✅ Updated renderSocials() in p.html
+   - نفس التعديلات كـ dashboard.html
+   - fallback يعرض أول حرف عربي
+
+5. ✅ Cache busting updated to v=14
+   - style.css?v=14
+   - app.js?v=14
+   - theme.js?v=14
+
+═══════════════════════════════════════════════════════════════
+
+📝 CURRENT BEHAVIOR:
+
+• الأيقونات الموجودة (facebook.png): تظهر بشكل طبيعي
+• الأيقونات المفقودة (8 files): تظهر أول حرف عربي:
+  - Instagram → "إ"
+  - WhatsApp → "و"
+  - Snapchat → "س"
+  - TikTok → "ت"
+  - LinkedIn → "ل"
+  - Gmail → "ج" (جيميل)
+  - Map → "م" (موقع)
+  - Review → "ت" (تقييم)
+  - Telegram → "ت" (تلجرام)
+  - YouTube → "ي" (يوتيوب)
+
+═══════════════════════════════════════════════════════════════
+
+⚠️ ACTION REQUIRED:
+
+احفظ الملفات الثمانية الناقصة في: e:\teq\icons\
+
+1. instagram.png
+2. whatsapp.png
+3. snapchat.png
+4. linkedin.png
+5. gmail.png
+6. tiktok.png
+7. map.png
+8. review.png
+
+المواصفات:
+• PNG with transparent background
+• 512×512px أو 256×256px
+• Full brand colors
+• Official brand assets preferred
+
+═══════════════════════════════════════════════════════════════
+
+💡 TIP: راجع facebook.png الموجود - لو حجمه 64 بايت، 
+       استبدله بأيقونة أكبر وأعلى جودة.
+
+═══════════════════════════════════════════════════════════════
+تاريخ التحديث: يناير 2025 | النسخة: v14

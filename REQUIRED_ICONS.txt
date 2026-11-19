@@ -1,0 +1,66 @@
+═══════════════════════════════════════════════════════════════
+  TAQEEMK v13 - REQUIRED ICON FILES
+═══════════════════════════════════════════════════════════════
+
+⚠️  ACTION REQUIRED: Please save the following 9 PNG icon files 
+    manually into the "icons" folder.
+
+📁 Save Location: e:\teq\icons\
+
+═══════════════════════════════════════════════════════════════
+
+REQUIRED FILES (9 total):
+
+1. facebook.png     → Facebook logo (blue with white f)
+2. instagram.png    → Instagram logo (gradient colors)
+3. whatsapp.png     → WhatsApp logo (green with white phone)
+4. snapchat.png     → Snapchat logo (yellow ghost on white)
+5. linkedin.png     → LinkedIn logo (blue with white 'in')
+6. gmail.png        → Gmail/Email logo (colored envelope)
+7. tiktok.png       → TikTok logo (black with pink/cyan)
+8. map.png          → Google Maps pin (red/green/blue)
+9. review.png       → Google Reviews / Star (yellow/blue)
+
+═══════════════════════════════════════════════════════════════
+
+ICON SPECIFICATIONS:
+
+• Format:         PNG with transparent background
+• Recommended:    512×512px or 256×256px
+• Colors:         Full brand colors (not monochrome)
+• Quality:        High quality, official brand assets preferred
+• Display size:   Will be shown at 30×30px
+
+═══════════════════════════════════════════════════════════════
+
+WHERE TO GET ICONS:
+
+Option 1: Official Brand Resources
+  • Facebook:   https://en.facebookbrand.com/
+  • Instagram:  https://about.instagram.com/brand/gradient
+  • LinkedIn:   https://brand.linkedin.com/
+  • TikTok:     https://newsroom.tiktok.com/en-us/brand-guidelines
+  • Google:     https://fonts.google.com/icons
+
+Option 2: Icon Libraries (ensure proper licensing)
+  • Flaticon:   https://www.flaticon.com/
+  • Icons8:     https://icons8.com/
+  • Iconfinder: https://www.iconfinder.com/
+
+═══════════════════════════════════════════════════════════════
+
+AFTER SAVING:
+
+1. Verify all 9 files are saved in e:\teq\icons\
+2. Check filenames are lowercase and match exactly
+3. Open dashboard.html in browser
+4. Test social media icons display correctly
+5. Check p.html public page
+
+═══════════════════════════════════════════════════════════════
+
+NOTE: If any icon file is missing, the system will fall back 
+      to SVG/Font Awesome icons, but PNG icons give the best 
+      visual results with full brand colors.
+
+═══════════════════════════════════════════════════════════════
